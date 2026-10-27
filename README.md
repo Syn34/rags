@@ -1,8 +1,6 @@
 # RiftApartGS
 
-A mod for **Ratchet & Clank: Rift Apart (PC)**. In **New Game+ (Challenge Mode)**, picking up the
-Blast Pistol in the Hall of Heroes at the start of the game also gives you the **Hoverboots** and
-**Phantom Dash**.
+A mod for RA PC. In NG+, picking up the Blast Pistol at the start of the game gives you the Hoverboots and Phantom Dash
 
 ## Install
 
